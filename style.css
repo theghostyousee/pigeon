@@ -41,7 +41,7 @@ h1{
 }
 
 .wrap img{
-    width: 300px;
+    width: 200px;
     animation: tilt 2s infinite;
     cursor: pointer;
 
